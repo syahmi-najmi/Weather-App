@@ -1,6 +1,6 @@
 **API Key and URL Declaration**
 
-const apiKey = '5dbf3a81e546fc38afb52d8d3845c87a'; // OpenWeather Map
+const apiKey = 'api key'; // OpenWeather Map
 const apiUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 - **apiKey**: This is the API key you received from OpenWeatherMap. It allows you to access their weather data.
